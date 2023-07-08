@@ -1,5 +1,5 @@
 <h3 align="center"><img src="https://i.ibb.co/SPpJT6f/New-Project.png" alt="goktugkayra" /> </h3>
-<h3 align="center">Passionate coder & open source advocate from Turkey.</h3>
+<h3 align="center">Passionate coder & open source lover from Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goktugkayra&label=Profile%20views&color=0e75b6&style=flat" alt="goktugkayra" /> </p>
 
